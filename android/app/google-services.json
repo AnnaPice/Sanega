@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178021628124",
+    "project_id": "sanega-61765",
+    "storage_bucket": "sanega-61765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178021628124:android:d2ed98d3cfd759d4c59c19",
+        "android_client_info": {
+          "package_name": "Com.Sanega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcknkjYJ0LGs0mnd6uLnKYlTylNrAhc0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
